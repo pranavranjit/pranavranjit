@@ -15,7 +15,7 @@ Portfolio Optimiser – a stock portfolio tool with an efficient frontier implem
 
 Currently open to data science and analytics roles. Always happy to chat.
 
-📫 LinkedIn · pranav2ranjit@gmail.com
+📫 https://www.linkedin.com/in/pranav2ranjit/· pranav2ranjit@gmail.com
 
 <!--
 **pranavranjit/pranavranjit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
