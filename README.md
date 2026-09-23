@@ -10,7 +10,9 @@ What I work with: Python · SQL · R · Power BI · Tableau · Spark · Databric
 A few things I've built:
 
 LiveChord – an AI app that recognises chords from audio, built on a custom Bidirectional Transformer and deployed to production
+
 CoinQuest – a finance-learning game with a from-scratch RAG pipeline
+
 Portfolio Optimiser – a stock portfolio tool with an efficient frontier implementation
 
 Currently open to data science and analytics roles. Always happy to chat.
